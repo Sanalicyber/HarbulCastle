@@ -1,0 +1,81 @@
+
+newmtl Material.000001
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 10
+map_Kd object.png
+
+
+newmtl Material.000325
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+d 1
+Ns 10
+map_Kd foliage.png
+
+
+newmtl Material.00036d
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 10
+map_Kd foliage.png
+
+
+newmtl Material.000390
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 10
+map_Kd object.png
+
+
+newmtl Material.00060a
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+d 1
+Ns 10
+map_Kd foliage.png
+
+
+newmtl Material.00063c
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 10
+map_Kd foliage.png
+
+
+newmtl Material.000658
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 10
+map_Kd object.png
+
+
+newmtl Material.00082f
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+d 1
+Ns 10
+map_Kd foliage.png
+
+
+newmtl Material.00084f
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 10
+map_Kd foliage.png
+
