@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Core
+namespace SmugTowerDefense.Core
 {
     public class Singleton<T> : MonoBehaviour where T : Component
     {

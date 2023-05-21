@@ -1,8 +1,8 @@
-﻿using UnityEngine;
+﻿using SmugTowerDefense.Core;
 
-namespace Management
+namespace SmugTowerDefense.Management
 {
-    public class GameManager : MonoBehaviour
+    public class GameManager : Singleton<GameManager>
     {
         
     }
